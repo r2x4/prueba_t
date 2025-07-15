@@ -1,0 +1,34 @@
+Conocimientos Python.
+
+1.1. Pregunta 1: ¿Qué es Python?
+1.2. Pregunta 2: ¿Por qué Python es mejor que Java?
+1.3. Pregunta 3: ¿Cuántos tipos de datos existen en el lenguaje Python?
+1.4. Pregunta 4: ¿Cuál es la diferencia entre "tuple" y "lista"?
+1.5. Pregunta 5: ¿Qué es "pickling" y "unpickling"?
+1.6. Pregunta 6: ¿Qué es "lambda"?
+1.7. Pregunta 7: ¿Cómo se administra la memoria dentro del lenguaje Python?
+1.8. Pregunta 8: ¿Qué es "pass"?
+1.9. Pregunta 9: ¿Puedes copiar un objeto en el lenguaje Python?
+1.10. Pregunta 10; ¿Cómo borrar un archivo dentro de Python?
+1.11. Pregunta 11: ¿Qué es un "diccionario"?
+1.12. Pregunta 12: ¿Es Python un lenguaje de programación interpretado?
+1.14. Pregunta 14: ¿Cómo Python se considera un lenguaje orientado a objetos?
+1.15. Pregunta 15: ¿Qué es "slicing"?
+
+
+
+2.1. Pregunta 1: Escribe un código que calcule una lista de números proporcionados.
+2.2. Pregunta 2: Escribe un código que brinde números al azar de una lista.
+2.3. Pregunta 3: ¿Existe alguna diferencia entre "range" y "xrange"?
+2.4. Pregunta 4: ¿Qué es el efecto Dogpile?
+2.5. Pregunta 5: Explica qué es la Encapsulación
+2.6. Pregunta 6: ¿Cuando ocurre la Terminación Anormal?
+2.7. Pregunta 7: Escriba un código que pueda contar todas las palabras mayúsculas de tu archivo.
+2.8. Pregunta 8: ¿El lenguaje Python posee un compilador?
+2.9. Pregunta 9: ¿Qué es un Monkey Patching?
+2.10. Pregunta 10: ¿Cómo guardar una imagen cuando conoces su URL?
+2.11. Pregunta 11: ¿Si la lista 1 es [4, 6, 8, 1, 0, 3], que seria la lista 1 [-1]?
+2.12. Pregunta 12: ¿Qué es un "decorator"?
+2.13. Pregunta 13: ¿Qué son los métodos "sub()" y "split()"?
+2.14. Pregunta 14: ¿Qué hacen los procesos de "compilación" y "enlazar"?
+2.15. Pregunta 15: ¿Qué hacen las funciones "help()" y "dir()"?

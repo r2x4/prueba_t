@@ -1,0 +1,17 @@
+Prueba Conocimientos Analista BI
+
+Realizar la siguiente prueba según sus conocimientos y experiencias en las cadenas de supermercados, puede usar las herramientas que considere necesarias a excepción de Chat GPT.
+
+1. Crear una carpeta en Documentos Llamada Analista y dentro otra carpeta con su nombre completo, dentro de esa carpeta deben quedar todos los archivos de la prueba realizada.
+
+
+2.En el archivo compartido  se tienen 3 bases de datos(Base_Tiendas, Jerarquia y Base_Ventas), estas deben relacionarse y obtener las ventas de los clientes por Jerarquía. Punto de venta y categoría. Llaves ( (Base Ventas:/BIC/ZCLCH_SMA,/BIC/ZCLCH_LIN) , base tiendas: store, base JERARQUIAS: Jerarquia2)
+
+3. Con la información obtenida en el punto anterior, diseñar un dashboard que permita identificar de manera grafica las 
+tendencias, mejores y peores resultados en los indicadores comerciales por categoría, jerarquía y fecha.
+
+4. En alguna herramienta realizar el análisis del comportamiento de venta del semestre actual para las cadenas de supermercados, se desea validar el comportamiento de venta bruta + iva y unidades; identificar crecimiento; realizar posibles sugerencias para mejorar el indicador comercial; éste análisis debe realizarse por unidad de negocio, jerarquia2,negociador y proveedor, el análisis debe ser descriptivo y cuantitativo.
+
+5. Dar solución al Excel llamado "Prueba_Excel".
+
+6. Responder el cuestionario Python.
